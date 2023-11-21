@@ -98,5 +98,6 @@ public class Livro {
 	public void setComentarios(List<Comentario> comentarios) {
 		this.comentarios = comentarios;
 	}	
+	public Livro () {
 	
 }
